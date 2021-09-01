@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wallpaper App</string>
+
+
+    <string name="Admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="Admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Admob_int_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="Admob_native_id">ca-app-pub-3940256099942544/2247696110</string>
+
+    <!--    <string name="fb_intertial">YOUR_PLACEMENT_ID</string>-->
+    <!--    <string name="fb_banner">YOUR_PLACEMENT_ID</string>-->
+    <!--    <string name="fb_native">YOUR_PLACEMENT_ID</string>-->
+
+</resources>
